@@ -8,3 +8,5 @@
 远程服务调用：feign
 
 # 动手写谷粒商城项目
+![image](https://github.com/Mindzzz/springcloud/assets/100667194/1a974db0-d743-4adf-81cd-8979d57eb017)
+
